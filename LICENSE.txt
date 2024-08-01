@@ -1,0 +1,13 @@
+Educational Use License
+
+Copyright (c) 2024 Denys Tychynskyi
+
+This software is provided solely for educational purposes. You may use, modify, and distribute this software for educational, non-commercial purposes only. The software must not be used for any illegal activities, including but not limited to unauthorized access to data or systems.
+
+**Disclaimer**: This software is provided "as is", without any express or implied warranties, including but not limited to warranties of merchantability or fitness for a particular purpose. The author makes no guarantees about the accuracy, reliability, or suitability of the software for any specific purpose.
+
+**Limitation of Liability**: In no event shall the author be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, arising out of or in connection with the use or inability to use this software.
+
+By using this software, you agree to the terms of this license and acknowledge that you are responsible for any use of the software that violates any laws or regulations.
+
+2024 Denys Tychynskyi
